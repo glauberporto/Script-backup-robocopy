@@ -1,0 +1,6 @@
+{
+  "name": "Backup Árvore · Robocopy Studio",
+  "description": "Gerador e console técnico de scripts Batch (.bat) para backup espelhado automatizado com Robocopy no Windows Server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
